@@ -11,5 +11,8 @@
 - Right Shift ( >> ) // a >> b -> a / 2^b       
 
 **Bitmask :**   
--Bitmask are used to access specific bits in byte od data.     
+-Bitmask are used to access specific bits in byte od data.       
 
+| rollno | name | div |     
+|:-|:-|:-|    
+| 101 | vivek | B |
