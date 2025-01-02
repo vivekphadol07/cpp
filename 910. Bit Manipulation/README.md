@@ -17,4 +17,4 @@
 |:-|:-|:-|    
 | 101 | vivek | B |        
 
-![Image](./910. Bit Manipulation/WIN_20240722_10_25_17_Pro.jpg)       
+![Image](./Cpp/910.Bit Manipulation/WIN_20240722_10_25_17_Pro.jpg)       
